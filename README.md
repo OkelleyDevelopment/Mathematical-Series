@@ -11,3 +11,5 @@ decided to make a script that explored it a bit.
 python3 lucas.py
 
 ```
+## Known Errors
+- The Bash version of this script is still in development. Should be resolved in the next couple of days!
